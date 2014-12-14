@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model-schema>
+	<model-unit name="TesteMU"></model-unit>
+	<model-unit name="Teste2MU" sgbd="mysql">
+		<property name="database.name" value="orm" />
+		<property name="database.user" value="" />
+		<property name="database.password" value="" />
+		<property name="database.host" value="127.0.0.1" />
+		<property name="database.port" value="3306" />
+	</model-unit>
+</model-schema>
