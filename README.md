@@ -5,3 +5,5 @@ Projeto MVC
 
 Atualmente parado por falta de tempo para dar continuidade ao projeto.
 O projeto já conta com uma arquitetura de pastas organizadas e com um ORM incompleto, porém com as funcionalidades de salvar e atualizar dados completas.
+<br>
+<strong>OBS:</strong> O ORM baseia-se no JPA.
