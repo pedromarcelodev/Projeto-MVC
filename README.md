@@ -1,4 +1,7 @@
-Projeto-MVC
+Projeto MVC
 ===========
 
-Software com arquitetura MVC em PHP
+<h3>Software com arquitetura MVC em PHP</h3>
+
+Atualmente parado por falta de tempo para dar continuidade ao projeto.
+O projeto já conta com uma arquitetura de pastas organizadas e com um ORM incompleto, porém com as funcionalidades de salvar e atualizar dados completas.
